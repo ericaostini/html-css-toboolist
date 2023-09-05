@@ -37,7 +37,7 @@ ul{
     list-style: none;
 }
 
-.circle{
+.true{
     border: 1px solid rgb(99, 192, 169);
     color:rgb(99, 192, 169);
     border-radius: 50%;
@@ -45,14 +45,35 @@ ul{
     padding: 1px;
 }
 
-.editorial{
+.false{
+    border: 1px solid red;
+    color:red;
+    border-radius: 50%;
+    display: inline-block;
+    padding: 1px;
+}
+
+.cube{
     border-radius: 20px;
-    background-color: rgb(72, 173, 241);
     display: inline-block;
     padding: 5px 10px;
     font-size: 10px;
     color: white;
 }
+.editorial{
+    background-color: rgb(72, 173, 241);
+}
+.goals{
+    background-color: rgb(155, 113, 227);
+}
+.recruiting{
+    background-color: rgb(99, 192, 169);
+}
+.mobile{
+    background-color: rgb(242, 158, 51);
+}
+
+
 
 
 
