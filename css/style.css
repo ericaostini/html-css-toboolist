@@ -32,9 +32,19 @@
     color:  rgb(203, 208, 212);
 }
 
+/* list */
 ul{
     margin-left: 30px;
     list-style: none;
+}
+
+h2{
+    margin-top:25px;
+    margin-bottom: 5px;
+}
+.list{
+    padding-bottom: 10px;
+    font-size: large;
 }
 
 .true{
@@ -43,6 +53,7 @@ ul{
     border-radius: 50%;
     display: inline-block;
     padding: 1px;
+    margin-right: 5px;
 }
 
 .false{
@@ -51,6 +62,7 @@ ul{
     border-radius: 50%;
     display: inline-block;
     padding: 1px;
+    margin-right: 5px;
 }
 
 .cube{
