@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/* main{ 
+    width: 60%;
+    margin: 0 auto;
+    background-color: white;
+    border: 1px solid rgb(245, 248, 249);
+} */
+
+/* task and section */
+.add{
+    background-color: white;
+    border-bottom: 1px solid  rgb(203, 208, 212);
+    padding: 10px;
+}
+
+.border-add{
+    border: 1px solid  rgb(203, 208, 212);
+    border-radius: 10px;
+    display: inline-block;
+    padding: 5px 15px;
+}
+
+#task{
+    background-color: rgb(72, 173, 241);
+    color: white;
+}
+
+#section{
+    color:  rgb(203, 208, 212);
+}
+
+
+
+
